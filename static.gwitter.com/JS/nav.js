@@ -1,0 +1,18 @@
+document.write('<div class="nav-fluid">');
+document.write('            <div class="gwtr-container flex">');
+document.write('                <div class="logo_and_menu">');
+document.write('                    <span class="menu_logo"></span>');
+document.write('                    <a href="home.html"><div class="nav_logo"></div></a>');
+document.write('                </div>');
+document.write('                <div class="links">');
+document.write('                    <a class="link_A" href="explore.html"><button class="pages white">Explore</button></a>');
+document.write('                    <a class="link_A" href="notify.html"><button class="pages white">Notify</button></a>');
+document.write('                    <a class="link_A" href="messages.html"><button class="pages white">Messages</button></a>');
+document.write('                    <a class="link_A" href="gwitterBLUE.html?currency"><button class="pages white">BLUE</button></a>');
+document.write('                </div>');
+document.write('                <div class="search-bar">');
+document.write('                    <input class="search_input" placeholder="Search Exploration!">');
+document.write('                    <span class="search-btn"></span>');
+document.write('                </div>');
+document.write('            </div>');
+document.write('        </div>');
