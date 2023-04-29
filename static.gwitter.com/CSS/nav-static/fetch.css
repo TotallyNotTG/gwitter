@@ -1,0 +1,88 @@
+.content {
+    width: 100%;
+    height: 100%;
+}  
+.nav-fluid {
+    width: 100%;
+    height: 40px;
+    background-color: #0074BD;
+    position: fixed;
+    margin-top: -40px;
+    margin-left: -8px;
+}
+.gwtr-container {
+    width: 100%;
+    height: 100%;
+}
+.logo_and_menu {
+    height: 40px;
+    width: fit-content;
+    margin-left: 20px;
+    display: flex;
+}
+.nav_logo {
+    height: 40px;
+    width: 40px;
+    background: url(/gwitter.com/static.gwitter.com/IMAGES/_logo-fetch/gwitter_logo.png) no-repeat;
+    background-position-x: -30px;
+    background-position-y: -30px;
+    background-size: 270%;
+    filter: invert(1);
+}    
+.menu_logo {
+    background: url(https://images.rbxcdn.com/f4000b6d03a0df7153556d2514045629-navigation_10022018.svg) no-repeat;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-size: 200%;
+    cursor: pointer;
+}
+.links {
+    width: fit-content;
+    height: 40px;
+    display: flex;
+}
+.link_A {
+    width: 100px;
+}
+.pages {
+    height: 30px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: transparent;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 500;
+}
+.pages:hover {
+    background-color: #255eae;
+}
+.search-bar {
+    width: 360px;
+    height: 30px;
+    margin-top: 5px;
+    display: flex;
+}
+.search_input {
+    width: 353px;
+    height: 24px;
+    border: 1px solid #a2a2a2;
+    border-radius: 2px;
+}
+.search-btn {
+    width: 28px;
+    height: 28px;
+    margin-top: 0px;
+    margin-left: -33px;
+    display: inline-block;
+    background: url(https://images.rbxcdn.com/f4000b6d03a0df7153556d2514045629-navigation_10022018.svg) no-repeat;
+    background-position-y: -112px;
+    cursor: pointer;
+}
+.search-btn:hover {
+    background-position-x: -28px;
+}
