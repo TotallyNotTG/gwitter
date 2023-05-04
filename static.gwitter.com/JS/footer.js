@@ -1,0 +1,13 @@
+document.write('<div class="footer">');
+document.write('                    <div>');
+document.write('                        <a href="" class="footer-links">About Us</a>');
+document.write('                        <a href="" class="footer-links">Blog</a>');
+document.write('                        <a href="" class="footer-links">Help</a>');
+document.write('                        <a href="" class="footer-links">Terms</a>');
+document.write('                        <a href="" class="footer-links">Privacy</a>');
+document.write('                    </div>');
+document.write('                    <div>');
+document.write('                        <button class="lang-switch">English</button>');
+document.write('                        <p class="copyright">© Gwitter 2023. This is Gwitter Inspired by Twitter this has a Guinea Copyright in place. Please follow the <a href="">Terms</a> of our website.</p>');
+document.write('                    </div>');
+document.write('                </div>');
