@@ -228,3 +228,45 @@ body {
 .grid-margin-10px {
     margin-left: 10px;
 }
+/*FOOTER*/
+.footer {
+    width: 100%;
+    height: fit-content;
+    background-color: #fff;
+    margin-top: 150px;
+}
+.footer-links {
+    font-size: 29px;
+    color: #dddddd;
+    width: 180px;
+    text-align: center;
+    display: inline-block;
+}
+.footer-links:hover {
+    color: #00a2ff;
+}
+.copyright {
+    text-align: center;
+    color: #bfbfbf;
+    font-size: 20px;
+}
+.lang-switch {
+    height: 37.6px;
+    width: 242.5px;
+    border: 1px solid #bfbfbf;
+    background-color: #fff;
+    border-radius: 1px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: pointer;
+    font-size: 20px;
+    color: #bfbfbf;
+}
+.lang-switch:hover {
+    background-color: #00a2ff;
+    border: 1px solid #00a2ff;
+    color: #fff;
+}
+/**/
