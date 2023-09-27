@@ -270,3 +270,130 @@ body {
     color: #fff;
 }
 /**/
+/*Veri web*/
+.main-veri-container {
+    width: 100%;
+    height: fit-content;
+}
+.about-verified {
+    width: 100%;
+    height: 192px;
+    background-color: #fff;
+}
+.get-business-verify-btn {
+    width: 231px;
+    height: 37.6px;
+    border-radius: 3px;
+    border: 0px solid #02b757;
+    background-color: #02b757;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+}
+.get-business-verify-btn:hover {
+    background-color: #3FC679;
+    box-shadow: 0 1px 3px rgba(150,150,150,0.74);
+}
+.inner-verified-box {
+    margin-left: 10px;
+}
+/**/
+/*404*/
+.make-lower-div {
+    height: 100px;
+}
+.main-404-container {
+    background-color: #fff;
+    width: 800px;
+    height: 370px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left-side {
+    width: 350px;
+    height: 100%;
+}
+.right-side {
+    width: 380px;
+    height: 100%;
+}
+.btn-bundle-404 {
+    margin-top: 180px;
+    margin-left: 20px;
+}
+.back-btn {
+    height: 34px;
+    width: 90px;
+    background-color: #02b757;
+    border: 0px solid #02b757;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 17px;
+}
+.back-btn:hover {
+    background-color: #3FC679;
+    box-shadow: 0 1px 3px rgba(150,150,150,0.74);
+}
+.home-btn {
+    height: 34px;
+    width: 90px;
+    background-color: #fff;
+    border: 1px solid #393939;
+    color: #393939;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.home-btn:hover {
+    background-color: #00a2ff;
+    border: 1px solid #00a2ff;
+    color: #fff;
+}
+/**/
+/*FOOTER*/
+.footer {
+    width: 100%;
+    height: fit-content;
+    background-color: #fff;
+    margin-top: 150px;
+}
+.footer-links {
+    font-size: 29px;
+    color: #dddddd;
+    width: 180px;
+    text-align: center;
+    display: inline-block;
+}
+.footer-links:hover {
+    color: #00a2ff;
+}
+.copyright {
+    text-align: center;
+    color: #bfbfbf;
+    font-size: 20px;
+}
+.lang-switch {
+    height: 37.6px;
+    width: 242.5px;
+    border: 1px solid #bfbfbf;
+    background-color: #fff;
+    border-radius: 1px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: pointer;
+    font-size: 20px;
+    color: #bfbfbf;
+}
+.lang-switch:hover {
+    background-color: #00a2ff;
+    border: 1px solid #00a2ff;
+    color: #fff;
+}
+/**/
